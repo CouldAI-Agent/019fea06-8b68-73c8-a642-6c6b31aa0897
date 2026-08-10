@@ -68,7 +68,7 @@ class GreetingScreen extends StatelessWidget {
                       ),
                       const SizedBox(height: 24),
                       const Text(
-                        'Athai Tap Anumodana',
+                        'अठ्ठाई तप अनुमोदना',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 28,
@@ -112,12 +112,11 @@ class GreetingScreen extends StatelessWidget {
                       
                       // Speech Body
                       const Text(
-                        'Respected family, friends, and Jai Jinendra to all.\n\n'
-                        'Today, my heart swells with immense pride and joy as my dear daughter has successfully completed her \'Athai\' — 8 continuous days of rigorous fasting.\n\n'
-                        'Watching her over these past eight days, abstaining from food and purely relying on boiled water, I realized the depth of spiritual strength she carries within her. Lord Mahavira taught us that \'Tap\' (penance) is the greatest way to shed karma and purify the soul, and she has truly embodied that teaching.\n\n'
-                        'Beta, your dedication, patience, and willpower are a massive inspiration to all of us. You have shown maturity far beyond your years. May Lord Parshvanath and Lord Mahavira always bless you with strength, peace, and boundless wisdom.\n\n'
-                        'We are incredibly proud of you.\n\n'
-                        'Michhami Dukkadam to anyone if we have hurt your feelings in thought, word, or deed.',
+                        'उपस्थित सभी वडीलमंडळी, आप्तजन आणि मित्रपरिवाराला सस्नेह जय जिनेन्द्र।\n\n'
+                        'आज मला माझ्या मुलीचे खूप खूप कौतुक आणि अभिमान वाटतो. तिने आज अत्यंत भावपूर्ण रितीने आपले \'अठ्ठाई तप\' (८ दिवसांचा उपवास) पूर्ण केले आहे.\n\n'
+                        'Beta, watching you over these past 8 days has been truly inspiring. अन्नपाण्याचा त्याग करून, केवळ उकळलेल्या पाण्यावर तू ही कठीण तपस्या हसतमुखाने पूर्ण केलीस. भगवान महावीरांनी सांगितले आहे की \'तप\' हे कर्म \'निर्जरा\' करण्याचे सर्वश्रेष्ठ साधन आहे. तुझ्या या उग्र तपाची आम्ही सर्वजण मनःपूर्वक \'अनुमोदना\' करतो.\n\n'
+                        'तुझ्या संयम आणि जिद्दीला आमचा सलाम. May Lord Parshvanath, Lord Mahavira and Shasan Dev-Devi bless you with abundant spiritual strength, peace, and wisdom.\n\n'
+                        'तुझ्या या तपश्चर्येच्या मार्गात, आमच्याकडून मन, वचन, कायेने काहीही दुखावले गेले असेल तर सर्वांना आमचे \'मिच्छामी दुक्कडम्\' (Michhami Dukkadam).',
                         textAlign: TextAlign.justify,
                         style: TextStyle(
                           fontSize: 16,
@@ -129,7 +128,7 @@ class GreetingScreen extends StatelessWidget {
                       
                       // Footer
                       const Text(
-                        'With eternal love & pride,\nYour Parents',
+                        'खूप खूप आशीर्वाद आणि तप अनुमोदना!\n- तुझे आई-वडील',
                         textAlign: TextAlign.center,
                         style: TextStyle(
                           fontSize: 18,
